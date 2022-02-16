@@ -10,7 +10,6 @@ A: every 3 weeks
 B: 60 days
 C: 6 month
 d: once a year
-
 # what to write
 - how their doing, if they need help
 - research what been up to

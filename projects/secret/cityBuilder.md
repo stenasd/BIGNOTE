@@ -1,5 +1,5 @@
 ---
-tags: crypto secret gamedev
+tags: crypto secret gamedev rust js react
 ---
 
 # towngame

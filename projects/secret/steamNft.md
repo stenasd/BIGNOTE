@@ -1,9 +1,15 @@
 ---
-tags: crypto secret steam
+tags: crypto secret steam rust js react
 ---
-# scuffed pitch
+
+- [1. nft gamble/mint](#1-nft-gamblemint)
+- [2. cashout](#2-cashout)
+- [3. nftfunc](#3-nftfunc)
+- [4. lootcontract](#4-lootcontract)
+- [5. frontend](#5-frontend)
+## 0.1. scuffed pitch
     on site token -> buy in on gamble token to nft contract. nft sent to winners wallet
-# nft gamble/mint
+# 1. nft gamble/mint
 
     buy in to randomize and transfer ownership of 2 nfts from owned nfts
 
@@ -27,18 +33,18 @@ tags: crypto secret steam
 
     handle: enter pool rng, minter reduce currency, minter increase currency, minter add to pool.
 
-# cashout
+# 2. cashout
 
     trade in nft for skin = send to nft burn
     trade in for currency = send back to gamble contract and add currency
 
-# nftfunc
+# 3. nftfunc
 
     getmetadata
     send/transfer ownership
     burn nft
 
-# todo lootcontract
+# 4. lootcontract
 
     init()
         DONE nft adress and codehash
@@ -55,7 +61,12 @@ tags: crypto secret steam
         getPoolData
         getFunds(account)
 
-# frontend
+# 5. frontend
+TODO upload nft and init it to testnet
+TODO upload contract and init it
+TODO get owned tokens in index
+TODO 
+TODO
 ```
 main page
     logedin and login
@@ -67,5 +78,4 @@ lootpool
     display all items in it and current buyin price
 
 click start roll a loading symbol starts and then when results come in show item won
-
 ```

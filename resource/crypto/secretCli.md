@@ -97,5 +97,10 @@ tags: crypto secret
 
     CONTRACT=secret1xzlgeyuuyqje79ma6vllregprkmgwgavk8y798
     secretcli tx compute execute $CONTRACT '{"start_loot_pool": {}}' --from a --keyring-backend test
+
     client.execute(contract, msg, undefined, undefined, *fee*)
+    
+    get encrypted data from cli'
+    
+    secretcli query compute tx [tx_hash]
     ```
