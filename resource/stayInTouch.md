@@ -3,6 +3,7 @@ tags: social qol
 ---
 [context](https://jakobgreenfeld.com/stay-in-touch)
 
+    tldr how to not lose friends and keep network big
 
 divides into 4 catogories.
 A: every 3 weeks
