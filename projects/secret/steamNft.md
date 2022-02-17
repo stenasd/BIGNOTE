@@ -7,6 +7,7 @@ tags: crypto secret steam rust js react
 - [3. nftfunc](#3-nftfunc)
 - [4. lootcontract](#4-lootcontract)
 - [5. frontend](#5-frontend)
+- [6. backend](#6-backend)
 ## 0.1. scuffed pitch
     on site token -> buy in on gamble token to nft contract. nft sent to winners wallet
 # 1. nft gamble/mint
@@ -69,13 +70,28 @@ TODO
 TODO
 ```
 main page
-    logedin and login
-    display owned nfts
-    gamble tokens
-item
-    all dossier data displayed
-lootpool
-    display all items in it and current buyin price
-
+    on mobile combine to 1 panel and have tabs
+    panel 3:
+        buy in price and skins in pool.
+    panel 2:
+        owned nfts and click on nft to trade in/send to adress/
+        logedin and login
+        display owned nfts
+    panel 1:
+        gamble tokens
+        show odds and stats ex fees and traffic
+item page
+    item info"nft_dossier" and option to link specific item
+    specific steam inventory that owns it
+    
 click start roll a loading symbol starts and then when results come in show item won
 ```
+
+# 6. backend
+
+>  handle all add/remove funds to contract account. give out skin when turned in
+> steamtrade
+> log website action
+> store and cashe in redis
+
+> mysql that store steam traded items
