@@ -70,11 +70,12 @@ tldr: skins are sent to admin server where it get proccsesd and value checked. L
         getFunds(account)
 
 # 5. frontend
-TODO upload nft and init it to testnet
-TODO upload contract and init it
-TODO get owned tokens in index
-TODO 
-TODO
+DONE upload nft and init it to testnet
+DONE upload contract and init itvh
+DONE get owned tokens in index
+TODO Query contract info 
+TODO Query contract pool and price
+TODO sendNft To contract
 ```
 main page
     on mobile combine to 1 panel and have tabs
