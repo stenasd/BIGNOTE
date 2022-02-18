@@ -2,7 +2,10 @@
 tags: crypto secret
 ---
 
-# linux commands
+# secretcli terminal snippets
+```
+tldr just pieces of code to paste when protyping or testing secretcli commands
+```
 
 - upload
     ```

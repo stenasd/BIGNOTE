@@ -1,7 +1,7 @@
 ---
-tags: qol sideproject js mysql nodejs react
+tags: qol sideproject js mysql nodejs react todo
 ---
-
+# stayinrouce project
     tldr: add friends to keep in touch with and add it to goolge calander.
 
 # frontendo

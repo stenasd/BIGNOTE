@@ -12,7 +12,7 @@ tags: notes qol
 
 ## part 2 connect
 - creat notes for future self
-- summarize at diffrent level of detail [[progressiv sum]] [link](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/)
+- summarize at diffrent level of detail [[progressiveSummarization]] [link](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/)
 - Organize opportunistically and add **value every time you touch it** so most freq used notes surface organicly
 ## part 3 creat
 - dont just consume **use info** blog/youtube/projects

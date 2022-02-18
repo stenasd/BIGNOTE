@@ -1,7 +1,10 @@
 ---
-tags: crypto secret rust js react
+tags: crypto secret rust js react todo
 ---
-
+# anon crypto marketplace with mmr for sellers
+```
+tldr anon marketplace where the data and funds will never go away when the sites get busted or destroyed. Uses ranking for how trustworthy
+```
 # handle not getting scammed
 Mmr system that give more used and older accounts higer impact on review. Have clear stats and reporting available for what went wrong. Example. disputed but payed back +rep, disputed but not payed back -rep . recived item +rep. 20% of buye price is on hold until buyer review.
 

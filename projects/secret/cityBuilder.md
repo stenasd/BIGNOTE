@@ -1,8 +1,8 @@
 ---
-tags: crypto secret gamedev rust js react
+tags: crypto secret gamedev rust js react todo
 ---
 
-# towngame
+# Secret blockchain citybuilder
 - init city cost set crypto ex 20kr.
 - villagers = nft got expireblock and stats that affect new nft villgers and town actions. private exact time it dies. date born and health stat to guees lifespan is public.
 - town stats affect stats of new nfts(villagers)

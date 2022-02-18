@@ -2,6 +2,7 @@
 tags: sysadmin linux server
 ---
 > [context](https://sollove.com/2013/03/03/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers/) 
+# linux server security on new system
 
     tldr how to keep servers safe in corpo env or just super paranoid
 

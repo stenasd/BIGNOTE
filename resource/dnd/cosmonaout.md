@@ -1,4 +1,7 @@
-
+---
+tags: pathfinder
+---
+# ALEXI: character for dnd level20 mythic
 ![](../../attachments/2022-02-17-12-13-06.png)
 > **igor**: barbarian och ex kgb. problem med autheritet och ett "wildcard".
 > **träning och utbildning**: Miltär utbildning och 2 turer till tjetenien. Skickad på updraget för att hålla kontroll och stoppa andra comsmonaouter att gå "rouge".

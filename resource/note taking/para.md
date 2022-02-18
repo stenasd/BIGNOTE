@@ -2,7 +2,7 @@
 tags: notes
 ---
     tldr: good system to sort notes and keep things clean. and make good todo lists
-# [PARA](https://fortelabs.co/blog/para/) projects area  resource archives
+# [PARA](https://fortelabs.co/blog/para/) (projects area  resource archives)
 
 **Not life loop** to follow just a sorting system
 ## project

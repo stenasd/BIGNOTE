@@ -1,13 +1,20 @@
 ---
-tags: crypto secret steam rust js react
+tags: crypto secret steam rust js react working_on
 ---
+# nft to steamitem lottery.
+```
+tldr: skins are sent to admin server where it get proccsesd and value checked. Later funds are added to contract that lets sender gamble and go into pool where median is the buying price.
+```
 
+- [nft to steamitem lottery.](#nft-to-steamitem-lottery)
+  - [0.1. scuffed pitch](#01-scuffed-pitch)
 - [1. nft gamble/mint](#1-nft-gamblemint)
 - [2. cashout](#2-cashout)
 - [3. nftfunc](#3-nftfunc)
 - [4. lootcontract](#4-lootcontract)
 - [5. frontend](#5-frontend)
 - [6. backend](#6-backend)
+  
 ## 0.1. scuffed pitch
     on site token -> buy in on gamble token to nft contract. nft sent to winners wallet
 # 1. nft gamble/mint

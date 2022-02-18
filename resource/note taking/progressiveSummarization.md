@@ -4,7 +4,7 @@ tags: notes
 ## [article](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/)
     tldr:refactor the notes to make them better for future you. best takeaway is to bold and highlight then summarize in the top
 
-# Progressive Summarization
+# Progressive-Summarization
 [[para]] shows how to oranize but P.S shows how to do the notes
 
 # schools of organize notes

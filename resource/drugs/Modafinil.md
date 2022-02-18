@@ -1,7 +1,10 @@
 ---
 tags: qol drug
 ---
-
+# drug-modafinil erowin summary
+```
+tldr: notes for effects on modafinil
+```
 ## [context](https://erowid.org/experiences/exp.php?ID=100310)
 ## dosage
 ![picture 1](../../images/e41ff7001d50e5b3eb959b28f07e2218148824d68041d83f98e09d0bdc730b04.png)  

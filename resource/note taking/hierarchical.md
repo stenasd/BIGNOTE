@@ -1,7 +1,7 @@
 ---
 tags: notes qol
 ---
-    tldr but stuff into folders with foldernames that is logical nested
+    tldr put stuff into folders with foldernames that is logical nested
 # hierarchical note taking
 ## pros
 - find specific note withhin seconds
