@@ -1,6 +1,10 @@
 ---
 tags: crypto secret rust js react todo
 ---
+## pitch: Escrow marketplace that is more secure, safe and quicker then tor alternatives using secret contracts. Live on clearnet and easily used by less tech savy. Like wickr for marketplaces
+
+
+
 # anon crypto marketplace with mmr for sellers
 ```
 tldr anon marketplace where the data and funds will never go away when the sites get busted or destroyed. Uses ranking for how trustworthy
@@ -32,5 +36,22 @@ goodCommunicationUpvote:i32
 Deliverd:i32
 > buyer upvote if item was Deliverd
 
+orderstuff
+>succesfull orders,failed orders,
+
 ## table for listings
 ## table for categories/tags
+
+# frontend
+    node gui desktop and tor website.
+    wallet with mnemonics saved local only.
+    homepage is list with saved contract addresses and right hash.
+# backend
+    Query endpoint for data like seller listings and stats.
+    init:
+        tag,name
+    handle:
+        buy/create/cancel/dispute/send msg
+    
+
+

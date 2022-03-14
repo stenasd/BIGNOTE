@@ -65,17 +65,32 @@ tldr: skins are sent to admin server where it get proccsesd and value checked. L
         DONE use adress as prefix
         DONE addFunds()
         DONE removeFunds()
+        TODO 1 items left bugg
+        TODO stop from going negativ
     quary()
-        getPoolData
-        getFunds(account)
+        DONE getPoolData
+        DONE getFunds(account)
 
 # 5. frontend
+```
 DONE upload nft and init it to testnet
 DONE upload contract and init itvh
 DONE get owned tokens in index
-TODO Query contract info 
-TODO Query contract pool and price
-TODO sendNft To contract
+DONE Query contract info 
+DONE Query contract pool and price
+DONE send sampleitem To contract
+DONE Recive nft
+TODO add SCRT cost to roll to cover mint and servercosts
+TODO noejs api calls and images
+TODO nodejsbackend
+    x add funds and mint
+```    
+
+link to community market [fetch](https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=%27Two%20Times%27%20McCoy%20|%20USAF%20TACP) 
+image fetch https://api.steamapis.com/image/item/730/%27Two%20Times%27%20McCoy%20|%20USAF%20TACP
+loot box [animation](https://codepen.io/stenasd/pen/RwjMobx) 
+
+animation creat list of random items. css animaion to allways land on x box in the list
 ```
 main page
     on mobile combine to 1 panel and have tabs
@@ -101,5 +116,7 @@ click start roll a loading symbol starts and then when results come in show item
 > steamtrade
 > log website action
 > store and cashe in redis
-
 > mysql that store steam traded items
+
+> page to login with steam to connect with wallet adress and save steamid,walletadrr
+> tradeoffer with deposit only is minted and added to pool use [onrecivedoffer](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager/blob/master/examples/storehouse-steam.js) to check for traderoffers
