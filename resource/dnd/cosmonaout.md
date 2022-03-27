@@ -2,6 +2,13 @@
 tags: pathfinder
 ---
 # ALEXI: character for dnd level20 mythic
+![picture 1](../../images/9a635b8985d4322d11aa1449e44268f1e7287028ebfb4e2bfe91948f5e407d6a.png)  
+
+Jobbar som kemist och var lärare på universitet på Moskva. Efter flera space anomalies och mysteriska försvunen Paris. Skickades ut med andra Ingenjörer och vetenskaps män för att följa spåren av vart paris försvann. Han hittade paris  och spenderade flera år i Paris och  städer runtomkring i Carcosa . Efter Carcosa kollapse när richard fukka up skit med hastur flydda han med överlevande från från paris och hans ryska bröder till gollarion där de skapa "New Paris". Han läde sig konsten att combinera kemi och arcane från Tesla när han fortfarande bode i carcosa innan han vart förstenad och fångad av meteus. 
+
+New paris är en liten stad med runt 500 personer. Har aktivt kontakt med jorden genom färder dit med rymdskeppet eller magi.
+
+
 ![](../../attachments/2022-02-17-12-13-06.png)
 > **igor**: barbarian och ex kgb. problem med autheritet och ett "wildcard".
 > **träning och utbildning**: Miltär utbildning och 2 turer till tjetenien. Skickad på updraget för att hålla kontroll och stoppa andra comsmonaouter att gå "rouge".
