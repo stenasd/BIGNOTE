@@ -6,7 +6,7 @@ tags: pathfinder
 
 Jobbar som kemist och var lärare på universitet på Moskva. Efter flera space anomalies och mysteriska försvunen Paris. Skickades ut med andra Ingenjörer och vetenskaps män för att följa spåren av vart paris försvann. Han hittade paris  och spenderade flera år i Paris och  städer runtomkring i Carcosa . Efter Carcosa kollapse när richard fukka up skit med hastur flydda han med överlevande från från paris och hans ryska bröder till gollarion där de skapa "New Paris". Han läde sig konsten att combinera kemi och arcane från Tesla när han fortfarande bode i carcosa innan han vart förstenad och fångad av meteus. 
 
-New paris är en liten stad med runt 500 personer. Har aktivt kontakt med jorden genom färder dit med rymdskeppet eller magi.
+New paris är en liten stad med runt 5000 personer. Har aktivt kontakt med jorden genom färder dit med rymdskeppet eller magi. Är en extension av sovjets och har representater av dem i staden
 
 
 ![](../../attachments/2022-02-17-12-13-06.png)
