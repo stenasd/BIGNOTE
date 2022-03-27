@@ -51,7 +51,33 @@ orderstuff
     init:
         tag,name
     handle:
-        buy/create/cancel/dispute/send msg
-    
+        buy/create/cancel_order/dispute/leave ratings/delete_listing/viewingkeystuff
+    Query
+        getSeller,getListings,getOrders,contract_details
 
+# todo
+```
+create listing.
+    add to arr of listings
+    add listing id to user
 
+user
+    listings:[ids]
+    mmr and other ratings
+
+listings
+    name
+    text
+    price
+    current supply/endless
+    owner
+    id uuid6 or something
+order
+    chatencryption
+    quantity
+    total secret to pay
+    orderstate
+        order received:0
+        order sent:1
+        review left:2
+```
