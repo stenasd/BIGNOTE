@@ -23,5 +23,5 @@ New paris är en liten stad med runt 5000 personer. Har aktivt kontakt med jorde
 ![](../../attachments/2022-02-17-12-23-49.png)
 
 > **åsna**: ingen vet varför åsnan faktist är med men gått så lång tid så ingen våga fråga heller.
-> **träning och utbildning** Dra tunga saker och äta havre. Även en ond demon i camoflage.
+> **träning och utbildning** Dra tunga saker och äta havre. Även en ond entity i camoflage.
 > **relation** Den gammla asiatiska mannen gillar han
