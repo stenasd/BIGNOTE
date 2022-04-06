@@ -13,6 +13,8 @@ regler: allt är en grav och om ni vandalisera eller förstör mer än som behö
 
 
 
+
+
 /w gm !power {{ 
 -- jonas Perception: [[d20+[[@{Jonas|Perception}]]]]
 -- kalle Perception: [[d20+[[@{Jonas|Perception}]]]]
