@@ -54,8 +54,3 @@ y = 1120-(x*54)
 1120/54 = 20,7
 20,7 minuter eller 20 minuter och 42 sekunder
 
-# 5.
-## 
-
-
-
