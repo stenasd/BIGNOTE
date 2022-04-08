@@ -1,9 +1,5 @@
-## at start before session
-- establish a adventure company and find faction sponsor.
-
-wati har nyankommande äventyrade från varje hörn av golarion och gatorna är fyllda av handelsmän som säljer sista minuten gear för äventyrande även överprisade förfriskningar. Även handels företag och faction som vill hitta och sponsra äventyrare. på en uphöjd scene under en gazebo av marmor präster av pharasma på scenen. Sebti crocodil kvinnan sitter bakom  och leker med knivar.
-låt lotteriet starta. fleara av er har frågat efter spesifika gravar att utforska med det är något som vi har valt att lämna till pharasma.
-regler: allt är en grav och om ni vandalisera eller förstör mer än som behövs kommer ni bli bestraffad utan rättegång
+## efter lämna dungeon
+en adventurer med ghoulfever(alla med heal vet) och 75% chans att den dör av det. Han är även rasist och del av de skumma delarna av hoodlife
 
 
 - tomb of akhentepi
@@ -29,3 +25,4 @@ regler: allt är en grav och om ni vandalisera eller förstör mer än som behö
 -- elias Perception: [[d20+[[@{Zihankof |Perception}]]]]
 -- pontus Perception: [[d20+[[@{BanAna Bárd|Perception}]]]]
 }}
+
