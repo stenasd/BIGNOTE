@@ -12,3 +12,6 @@
 > - bandit camp. next to town/village steal incom
 > - village give income and trade mechanic
 > - town. increase value to nearby resources
+
+# stack
+> - https://pixijs.io/

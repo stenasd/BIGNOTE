@@ -12,6 +12,8 @@ en adventurer med ghoulfever(alla med heal vet) och 75% chans att den dör av de
      gäst vänlig dvärg som äger badhuset som är ett staket runt ett rör som åker ner i en tegel pool
 
 
+
+
 /w gm !power {{ 
 -- jonas Perception: [[d20+[[@{Jonas|Perception}]]]]
 -- kalle Perception: [[d20+[[@{Jonas|Perception}]]]]
