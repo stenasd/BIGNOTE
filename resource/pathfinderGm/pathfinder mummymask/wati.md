@@ -9,3 +9,12 @@ noble district with 2 big noble familys. Mahfre =boomers conservatives okhenti l
 ## other farms
 onion farmers
 
+#  [store](https://i.redd.it/ij3fk3qldlo71.png)
+> potion mynt butik feel theifling ägare. peddlar glasflask geb potion
+> rich hotel single milf in bar and tony as inkeeper unfriendly to party
+
+other team:
+
+ninja guiden
+hafling mystery solver gang
+4 rouges 

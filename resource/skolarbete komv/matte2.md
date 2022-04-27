@@ -21,3 +21,26 @@ Linjär funktion
 y(x) = x+5
 värdet av y beror på vad x är
 x(2) = 2+5 är exempel
+
+
+
+AndragradsEkv
+
+ekvation ena led är andragrad och andra är lika med 0 = andragrad ekv
+
+
+Andragrads polynom
+ax^2 + bx + c = 0
+
+a b och c är konstanter och a != 0 om a = 0, så hade ju x²-termen blivit lika med noll och då hade inte polynomet varit av grad 2 längre
+
+andragrads funktion
+
+f(x) = ax^2 + bx + c 
+funktion där utrycket är en polynmom
+
+Andragrads ekvationer
+
+
+
+Kvadrerings reglen

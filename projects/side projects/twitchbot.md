@@ -9,3 +9,16 @@ plan = combine use data dir and code injection and have sessions ready on all pr
 [Migrate](https://www.checklyhq.com/guides/puppeteer-to-playwright/) to playwright use [chrome](https://playwright.dev/python/docs/browsers#google-chrome--microsoft-edge) browser for codec 
 
 get commandline input to enter when capatcha is done then run email verif stuff
+
+
+        const browser = await firefox.launch({
+            headless: false,
+            proxy: {
+            server: 'http://45.13.31.218',
+            username: proxyfish154,
+            password: darkdark,
+            },
+        });
+
+         45.13.31.218
+         proxyfish154 darkdark

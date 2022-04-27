@@ -6,6 +6,47 @@
 -- pontus Perception: [[d20+[[@{BanAna Bárd|Perception}]]]]
 }}
 # loot
+# b12
+ring of protectyion +1
+> 1. 300gp
+> 2. ring
+
+# b13
+magisk kran som skapar vatten
+> 1. spigot water at will
+
+# b15
+> 1. scale mail
+> 2. light crossbow
+> 3. 125gp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Charriot tomb:
 > masterwork sheild
 > mwk khopesh
