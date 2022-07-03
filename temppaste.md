@@ -1,0 +1,6 @@
+  CONTR_ID= 121,
+  CONTR_HASH= 'd6d2ffe3b9d5e92363941ca63938c199d3f36d9bb41c2ea7b6dc1f5714b34c5d',
+  CONTR_ADDRESS= 'secret1je2z4wpmyz7h3gz0l03rhae2he5t5nqphr89pq',
+  NFT_CONTR_ID= 45,
+  NFT_HASH= '31c5b80dc36e5cb214c603424eb5a564107cb9aa62c88c75e935136a2e71df9f',
+  NFT_CONTR_ADRESS= 'secret19nyjk3chu882swerjvez7cm3x8qhh6r4yv45hy'

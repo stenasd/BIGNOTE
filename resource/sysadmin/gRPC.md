@@ -1,0 +1,2 @@
+# gRPC
+client applictation call metoh on server on diffrent machines as if it were a local object. easier to make distributed applications and services. Basicly more usercases and new feateures från http2 stuff

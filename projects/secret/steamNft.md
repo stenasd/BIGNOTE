@@ -7,52 +7,50 @@ tldr: skins are sent to admin server where it get proccsesd and value checked. L
 ```
 
 - [nft to steamitem lottery.](#nft-to-steamitem-lottery)
+- [big todo](#big-todo)
+  - [loot_back](#loot_back)
+  - [contract](#contract)
   - [0.1. scuffed pitch](#01-scuffed-pitch)
 - [1. nft gamble/mint](#1-nft-gamblemint)
-- [2. cashout](#2-cashout)
-- [3. nftfunc](#3-nftfunc)
+- [2. withdraw](#2-withdraw)
+- [3. deposit](#3-deposit)
 - [4. lootcontract](#4-lootcontract)
 - [5. frontend](#5-frontend)
-- [6. backend](#6-backend)
-  
+
+# big todo
+## loot_back
+> X setup steam and pass it to components
+> X setup secretjs and pass it to components
+    X add envitomental variables
+
+> withdraw
+    x pool for code every 3 min for added burn
+    x    pool compare contract arr and current arr and filter awawy already sent steamids
+    verify it works with steam
+    x get tokenid from json and use it for withdraw
+
+> deposit
+    x check that it calls correct to contract
+    x check with steam
+## contract
+> update test with new tokenid system
+> change name and ids to make more sense
+> dont calculat buyin when theres 1 item left
+
 ## 0.1. scuffed pitch
     on site token -> buy in on gamble token to nft contract. nft sent to winners wallet
 # 1. nft gamble/mint
 
-    buy in to randomize and transfer ownership of 2 nfts from owned nfts
-
-    end user - trade in skins get currency
-
-    currency buy nfts 
-
-    nfts trade out for skin
-
-    server->mint skins and give currency
-    server-> give and take currency
-    server-> currency to enter gamble contract with nfts as prize
-    contract -> entry with currency and wallet adress. winning wallet gets nfts
-
-    contract structs:
-        nft metadata: skin price at mint. wear name, and when tradeable
-        player data: walletadress and current currenciy
-        rngpool: array with nfts in pool
-
-    contract logic: buyin price = avarage price of skins
-
-    handle: enter pool rng, minter reduce currency, minter increase currency, minter add to pool.
-
-# 2. cashout
-
-    trade in nft for skin = send to nft burn
-    trade in for currency = send back to gamble contract and add currency
-
-# 3. nftfunc
-
-    getmetadata
-    send/transfer ownership
-    burn nft
-
+# 2. withdraw
+    contract revice nft and adds to burn nft list. if got steamid send out tradeoffer with item.
+# 3. deposit
+    listens for trade. get item and tradelink from trademsg. minter send to contract and add funds to adress sent in msg.
 # 4. lootcontract
+    deposit for funds
+    use funds to roll
+    nft is minted 
+    send nft to contract
+    skin is sent.
 
     init()
         DONE nft adress and codehash
@@ -66,30 +64,20 @@ tldr: skins are sent to admin server where it get proccsesd and value checked. L
         DONE addFunds()
         DONE removeFunds()
         TODO 1 items left bugg
-        TODO stop from going negativ
+        DONE stop from going negativ
     quary()
         DONE getPoolData
         DONE getFunds(account)
 
 # 5. frontend
 ```
-DONE upload nft and init it to testnet
-DONE upload contract and init itvh
-DONE get owned tokens in index
-DONE Query contract info 
-DONE Query contract pool and price
-DONE send sampleitem To contract
-DONE Recive nft
-TODO add SCRT cost to roll to cover mint and servercosts
-TODO noejs api calls and images
-TODO nodejsbackend
-    x add funds and mint
+if need to improve loot box
+https://react-spring.io/hooks/use-transition#usetransition
+https://medium.com/@victortoschi/how-to-create-a-slot-machine-animation-with-css-and-javascript-9073ab9db9ea
 ```    
 
 link to community market [fetch](https://steamcommunity.com/market/priceoverview/?appid=730&currency=1&market_hash_name=%27Two%20Times%27%20McCoy%20|%20USAF%20TACP) 
 image fetch https://api.steamapis.com/image/item/730/%27Two%20Times%27%20McCoy%20|%20USAF%20TACP
-loot box [animation](https://codepen.io/stenasd/pen/RwjMobx) 
-
 animation creat list of random items. css animaion to allways land on x box in the list
 ```
 main page
@@ -109,14 +97,3 @@ item page
     
 click start roll a loading symbol starts and then when results come in show item won
 ```
-
-# 6. backend
-
->  handle all add/remove funds to contract account. give out skin when turned in
-> steamtrade
-> log website action
-> store and cashe in redis
-> mysql that store steam traded items
-
-> page to login with steam to connect with wallet adress and save steamid,walletadrr
-> tradeoffer with deposit only is minted and added to pool use [onrecivedoffer](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager/blob/master/examples/storehouse-steam.js) to check for traderoffers

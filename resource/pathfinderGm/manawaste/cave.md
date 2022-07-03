@@ -13,3 +13,5 @@ Strike in the mine about conditions after doing clockwork golems work. Lost a lo
 Demands: free passage to the overworld. Pay in real money for wages owned. Remove disease on all sick workers
 
 big elevator down to small miner town. Ticket up is payed in tokens and most of workers are "slaves". A lot of sick workers after clockworks cant do gruntwork and move green rocks. 
+
+TORAG INDUSTRIES. hiring undeads for mining contract with geb. lobby for cheap labor. Pahtfinder sociecty is against 
