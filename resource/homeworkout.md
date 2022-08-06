@@ -1,14 +1,14 @@
-# freq
--every odd h 120min
+# meals:
+overnight oats
+fish and potatoes 850 cal with random vegetal
+800 cal chicken + random carb.'
 
-# jumpingjacks
--  1min 20sec
-  
-# jumpsquats
-- 40sec
+500g fish = 250 cal. 
+600g potatoes ) 500 cal
+100 cal sourcream or butter
 
-# pushup
-- x6
-  
-# sithup
-- x8 
+300g chickenleg = 501 cal
+300 cal random vegetal
+
+oats = 400cal
+make each meal x2

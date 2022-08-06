@@ -2,3 +2,5 @@
 > TORAG INDUSTRIES. hiring undeads for mining contract with geb. lobby for cheap labor. Pahtfinder sociecty is against 
 
 > Vegan Activist creating wild magic virus that awakens animals it spreads too.
+
+>
