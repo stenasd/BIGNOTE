@@ -10,3 +10,5 @@ behöver mörda bock bock för att ta reda på vart artefakterna ligger och tjä
 
 Mr bucket https://www.youtube.com/watch?v=mobXdCclM40
 buc buc bucket   bock bock bror
+
+bandit ledaren är vakt kaptenens flickvänn

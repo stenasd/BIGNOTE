@@ -11,7 +11,8 @@ creat patrion that whipes all data
 creat mount at path
 >  sudo mount -t auto /dev/sdb ./path
 
-
+# change so everyone can read and change
+chmod u=rwx,g=rwx,o=rwx harddrive2
 
 Learn more about ansible and teraform
 
