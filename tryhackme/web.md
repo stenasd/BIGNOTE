@@ -55,7 +55,13 @@ resarch more  https://www.w3.org/TR/REC-DOM-Level-1/introduction.html
 https://owasp.org/www-community/attacks/DOM_Based_XSS
 > blind xss
 same as stored-xss but to unverifanble places like admin portals or support tickets. https://xsshunter.com/features is tool for it
-> Command injection
+# Command injection
 when app pass data and make system calls with userinput as param.
 to check if it works with ping and sleep or curl. or whoami if the application show responses
 curl http://vulnerable.app/process.php%3Fsearch%3DThe%20Beatles%3B%20whoam
+
+# insecure Deserilz
+Packing up or seralize/parsing data between frontend and backend
+example is look att cookie and change usertype to admin
+
+https://owasp.org/www-community/attacks/

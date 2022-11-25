@@ -22,6 +22,7 @@ update to db and elasticsearch
 > Get more content on scroll
 > auto complete title and tags on search
 > voice sample
+
 ## item click
 > top got soundgasmm links
 > discriptons
@@ -43,6 +44,7 @@ proxy network goes into every link and gather links to soundgasm and other webpa
  #thing_t3_ux056b > span:nth-child(2) = post number
  #thing_t3_ux056b > div:nth-child(4) > div:nth-child(1) > p:nth-child(1) > a:nth-child(2)
 
+# todo
 # frontend
 > steal good design from css youtuber
 > home feed
@@ -50,4 +52,9 @@ proxy network goes into every link and gather links to soundgasm and other webpa
 https://old.reddit.com/r/gonewildaudio/top/
 
 
+# bot
+addPost
+addPostData
 
+# backend
+parse tags and add to relational tables
