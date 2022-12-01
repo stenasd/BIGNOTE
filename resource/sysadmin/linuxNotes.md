@@ -9,7 +9,7 @@ unmount if its mounted to creat patrion
 creat patrion that whipes all data
 > sudo mkfs.ext4 /dev/sda
 creat mount at path
->  sudo mount -t auto /dev/sdb ./path
+>  sudo mount -t auto /dev/sda ./path
 
 # change so everyone can read and change
 chmod u=rwx,g=rwx,o=rwx harddrive2
