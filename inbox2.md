@@ -1,0 +1,2 @@
+Its not about the money but about creating and improving and the dopamin from solving advance problems. Teamwork and feeling like everything fits like a puzzle is my mindset in working with teams
+Got no family and no hobby except programming.
